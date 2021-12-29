@@ -10,8 +10,7 @@
 - I'm passionate about tech 🌐🖥 and climbing 🧗🏽‍♂️
 
 ### **Connect with me:**
--![LinkedIn]
-("https://img.icons8.com/color/48/000000/linkedin.png")
+![LinkedIn]("https://img.icons8.com/color/48/000000/linkedin.png")
 [Amaru Korpimäki](https://www.linkedin.com/in/amarukorpimaki/)
 
 ## **Languages and Tools**
