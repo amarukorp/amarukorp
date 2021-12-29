@@ -8,7 +8,7 @@
 - My 2022 goals are getting my first junior developer job 👨🏽‍💻
 
 - I'm passionate about tech 🌐🖥 and climbing 🧗🏽‍♂️
-
+<!---
 ### **Connect with me:**
 ![LinkedIn]("https://img.icons8.com/color/48/000000/linkedin.png")
 [Amaru Korpimäki](https://www.linkedin.com/in/amarukorpimaki/)
@@ -23,3 +23,4 @@
 ![Java]("https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png")
 ![MS SQL server]("https://img.icons8.com/color/48/000000/microsoft-sql-server.png")
 ![Git]("https://img.icons8.com/color/48/000000/git.png")
+--->
