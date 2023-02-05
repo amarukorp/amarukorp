@@ -3,9 +3,9 @@
 ## **I'm a software engineering student**
 - I'm interested in fullstack software development 💻, mobile dev📱 and DevOps 💫
 
-- I'm currently learning Typescript, React Native and upgrading my knowledge on fullstack dev 👨🏽‍🎓
+- I'm currently in my last year of studies and upgrading my knowledge on fullstack dev 👨🏽‍🎓
 
-- My 2022 goals are getting my first junior developer job 👨🏽‍💻 and start collaborating on open source projects 💡
+- My 2023 goals are getting my first junior developer job 👨🏽‍💻 and start collaborating on open source projects 💡
 
 - I'm passionate about tech 🌐🖥 and climbing 🧗🏽‍♂️
 <!---
