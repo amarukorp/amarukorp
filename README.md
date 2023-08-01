@@ -5,7 +5,7 @@
 
 - I'm currently developing my own design system 👨🏽‍🎓
 
--  In 2023 I want to start collaborating on open source projects 💡
+-  In 2023 I want to start collaborating in open source projects 💡
 
 - I'm passionate about tech 🌐🖥 and sports 🏊🏼🚵🏼
 <!---
