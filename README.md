@@ -1,13 +1,13 @@
 ### Hi there, I'm Amaru Korpimäki ✌
 
-## **I'm a software engineering student**
+## **I'm a software engineer**
 - I'm interested in fullstack software development 💻, mobile dev📱 and DevOps 💫
 
-- I'm currently in my last year of studies and upgrading my knowledge on fullstack dev 👨🏽‍🎓
+- I'm currently developing my own design system 👨🏽‍🎓
 
 - My 2023 goals are getting my first junior developer job 👨🏽‍💻 and start collaborating on open source projects 💡
 
-- I'm passionate about tech 🌐🖥 and climbing 🧗🏽‍♂️
+- I'm passionate about tech 🌐🖥 and sports 🏊🏼🚵🏼
 <!---
 ### **Connect with me:**
 ![LinkedIn]("https://img.icons8.com/color/48/000000/linkedin.png")
