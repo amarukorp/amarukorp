@@ -5,7 +5,7 @@
 
 - I'm currently developing my own design system 👨🏽‍🎓
 
-- My 2023 goals are getting my first junior developer job 👨🏽‍💻 and start collaborating on open source projects 💡
+-  In 2023 I want to start collaborating on open source projects 💡
 
 - I'm passionate about tech 🌐🖥 and sports 🏊🏼🚵🏼
 <!---
